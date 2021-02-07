@@ -14,6 +14,8 @@ namespace Lab3a
         private string department;
         private float cgpa;
 
+        public Student() { }
+
         public string Name
         {
             get
@@ -44,22 +46,93 @@ namespace Lab3a
             { cgpa = value; }
         }
 
+        public void showinfo()
+        {
+            Console.WriteLine("NAME: " + Name);
+            Console.WriteLine("ID: " + ID);
+            Console.WriteLine("DEPARTMENT: " + Department);
+            Console.WriteLine("CGPA: " + CG);
+        }
     }
 
+    class Triangle
+    {
+        private int x;
+        private int y;
+        private int z;
 
-    class Program
+        public Triangle() { }
+
+        public int X
+        {
+            get
+            { return x; }
+            set
+            { x = value; }
+        }
+
+        public int Y
+        {
+            get
+            { return y; }
+            set
+            { y = value; }
+        }
+
+        public int Z
+        {
+            get
+            { return z; }
+            set
+            { z = value; }
+        }
+
+        public void showinfo()
+        {
+            Console.WriteLine("Side X: " + x);
+            Console.WriteLine("Side Y: " + y);
+            Console.WriteLine("Side Z: " + z);
+        }
+        public void testTriangle()
+        {
+            if (x == y && x == z)
+            {
+                Console.WriteLine("Triangle is equilateral");
+            }
+            else if (x == y && x != z || y == z && y != x || z == x && x != y)
+            {
+                Console.WriteLine("Triangle is isoscale");
+            }
+            else
+            {
+                Console.WriteLine("Triangle is scalane");
+            }
+
+        }
+
+    }
+
+        class Program
     {
         static void Main(string[] args)
         {
             Student s = new Student();
             s.Name = "Ovywankenobi";
-            Console.WriteLine("NAME: " + s.Name);
             s.ID = "38779";
-            Console.WriteLine("ID: " + s.ID);
             s.Department = "CSE";
-            Console.WriteLine("DEPARTMENT: " + s.Department);
             s.CG = 0.1F;
-            Console.WriteLine("CGPA: " + s.CG);
+            s.showinfo();
+
+            Console.WriteLine();
+
+            Triangle t = new Triangle();
+            t.X = 1;
+            t.Y = 3;
+            t.Z = 3;
+            t.showinfo();
+            t.testTriangle();
+
+            Console.WriteLine();
         }
     }
 }
