@@ -112,6 +112,93 @@ namespace Lab3a
 
     }
 
+    class Account
+    {
+        private string accName;
+        private string acid;
+        private int balance;
+
+        public Account() { }
+
+        public string AccName
+        {
+            get
+            { return accName; }
+            set
+            { accName = value; }
+        }
+
+        public string Acid
+        {
+            get
+            { return acid; }
+            set
+            { acid = value; }
+        }
+
+        public int Balance
+        {
+            get
+            { return balance; }
+            set
+            { balance = value; }
+        }
+
+        public void Deposit(int ammount)
+        {
+            balance = balance + ammount;
+            Console.WriteLine("Deposited : " + ammount);
+
+        }
+
+        public void Withdraw(int ammount)
+        {
+
+            balance = balance - ammount;
+            Console.WriteLine("Withdrawn : " + ammount);
+        }
+    }
+
+    class Course
+    {
+        private String courseName;
+        private String courseCode;
+        private int courseCredit;
+
+        public String CourseName
+        {
+            get
+            { return courseName; }
+            set
+            { courseName = value; }
+        }
+
+        public String CourseCode
+        {
+            get
+            { return courseCode; }
+            set
+            { courseCode= value; }
+        }
+
+        public int CourseCredit
+        {
+            get
+            { return courseCredit; }
+            set
+            { courseCredit = value; }
+        }
+
+        public void showCourseInfo()
+        {
+            Console.WriteLine("Course Name: " + courseName);
+            Console.WriteLine("Course Code: " + courseCode);
+            Console.WriteLine("Course Credit: " + courseCredit);
+        }
+    }
+
+
+
         class Program
     {
         static void Main(string[] args)
@@ -133,6 +220,26 @@ namespace Lab3a
             t.testTriangle();
 
             Console.WriteLine();
+
+            Account a = new Account();
+            a.AccName = "GameStop";
+            a.Acid = "uwu420";
+            a.Balance = 100;
+            Console.WriteLine("Current Balance: " + a.Balance);
+            a.Deposit(500);
+            Console.WriteLine("Current Balance: " + a.Balance);
+            a.Withdraw(200);
+            Console.WriteLine("Current Balance: " + a.Balance);
+
+            Console.WriteLine();
+
+            Course c = new Course();
+            c.CourseName = "OOP2";
+            c.CourseCode = "CS420";
+            c.CourseCredit = 3;
+            c.showCourseInfo();
+
+
         }
     }
 }
