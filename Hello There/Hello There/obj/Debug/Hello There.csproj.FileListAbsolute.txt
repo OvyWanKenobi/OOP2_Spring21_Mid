@@ -1,0 +1,7 @@
+D:\aiub\oop2\OOP2_Spring21_Mid\Hello There\Hello There\bin\Debug\Hello There.exe.config
+D:\aiub\oop2\OOP2_Spring21_Mid\Hello There\Hello There\bin\Debug\Hello There.exe
+D:\aiub\oop2\OOP2_Spring21_Mid\Hello There\Hello There\bin\Debug\Hello There.pdb
+D:\aiub\oop2\OOP2_Spring21_Mid\Hello There\Hello There\obj\Debug\Hello There.csprojAssemblyReference.cache
+D:\aiub\oop2\OOP2_Spring21_Mid\Hello There\Hello There\obj\Debug\Hello There.csproj.CoreCompileInputs.cache
+D:\aiub\oop2\OOP2_Spring21_Mid\Hello There\Hello There\obj\Debug\Hello There.exe
+D:\aiub\oop2\OOP2_Spring21_Mid\Hello There\Hello There\obj\Debug\Hello There.pdb
