@@ -1,0 +1,7 @@
+D:\aiub\oop2\OOP2_Spring21_Mid\Lab3\Lab3\Lab3a\obj\Debug\Lab3a.csprojAssemblyReference.cache
+D:\aiub\oop2\OOP2_Spring21_Mid\Lab3\Lab3\Lab3a\obj\Debug\Lab3a.csproj.CoreCompileInputs.cache
+D:\aiub\oop2\OOP2_Spring21_Mid\Lab3\Lab3\Lab3a\bin\Debug\Lab3a.exe.config
+D:\aiub\oop2\OOP2_Spring21_Mid\Lab3\Lab3\Lab3a\bin\Debug\Lab3a.exe
+D:\aiub\oop2\OOP2_Spring21_Mid\Lab3\Lab3\Lab3a\bin\Debug\Lab3a.pdb
+D:\aiub\oop2\OOP2_Spring21_Mid\Lab3\Lab3\Lab3a\obj\Debug\Lab3a.exe
+D:\aiub\oop2\OOP2_Spring21_Mid\Lab3\Lab3\Lab3a\obj\Debug\Lab3a.pdb
