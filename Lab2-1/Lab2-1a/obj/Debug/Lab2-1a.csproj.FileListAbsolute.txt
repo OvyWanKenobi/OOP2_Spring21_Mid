@@ -1,0 +1,6 @@
+D:\aiub\oop2\OOP2_Spring21_Mid\Lab2-1\Lab2-1a\bin\Debug\Lab2-1a.exe.config
+D:\aiub\oop2\OOP2_Spring21_Mid\Lab2-1\Lab2-1a\bin\Debug\Lab2-1a.exe
+D:\aiub\oop2\OOP2_Spring21_Mid\Lab2-1\Lab2-1a\bin\Debug\Lab2-1a.pdb
+D:\aiub\oop2\OOP2_Spring21_Mid\Lab2-1\Lab2-1a\obj\Debug\Lab2-1a.csproj.CoreCompileInputs.cache
+D:\aiub\oop2\OOP2_Spring21_Mid\Lab2-1\Lab2-1a\obj\Debug\Lab2-1a.exe
+D:\aiub\oop2\OOP2_Spring21_Mid\Lab2-1\Lab2-1a\obj\Debug\Lab2-1a.pdb
