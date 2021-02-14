@@ -1,0 +1,7 @@
+D:\aiub\oop2\OOP2_Spring21_Mid\arrayclass\arrayA\obj\Debug\arrayA.csprojAssemblyReference.cache
+D:\aiub\oop2\OOP2_Spring21_Mid\arrayclass\arrayA\obj\Debug\arrayA.csproj.CoreCompileInputs.cache
+D:\aiub\oop2\OOP2_Spring21_Mid\arrayclass\arrayA\bin\Debug\arrayA.exe.config
+D:\aiub\oop2\OOP2_Spring21_Mid\arrayclass\arrayA\bin\Debug\arrayA.exe
+D:\aiub\oop2\OOP2_Spring21_Mid\arrayclass\arrayA\bin\Debug\arrayA.pdb
+D:\aiub\oop2\OOP2_Spring21_Mid\arrayclass\arrayA\obj\Debug\arrayA.exe
+D:\aiub\oop2\OOP2_Spring21_Mid\arrayclass\arrayA\obj\Debug\arrayA.pdb
