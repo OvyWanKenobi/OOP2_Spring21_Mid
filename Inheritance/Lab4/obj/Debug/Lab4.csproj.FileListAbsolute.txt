@@ -1,0 +1,7 @@
+D:\aiub\oop2\OOP2_Spring21_Mid\Inheritance\Lab4\bin\Debug\Lab4.exe.config
+D:\aiub\oop2\OOP2_Spring21_Mid\Inheritance\Lab4\bin\Debug\Lab4.exe
+D:\aiub\oop2\OOP2_Spring21_Mid\Inheritance\Lab4\bin\Debug\Lab4.pdb
+D:\aiub\oop2\OOP2_Spring21_Mid\Inheritance\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+D:\aiub\oop2\OOP2_Spring21_Mid\Inheritance\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\aiub\oop2\OOP2_Spring21_Mid\Inheritance\Lab4\obj\Debug\Lab4.exe
+D:\aiub\oop2\OOP2_Spring21_Mid\Inheritance\Lab4\obj\Debug\Lab4.pdb

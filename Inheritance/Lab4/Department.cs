@@ -10,12 +10,13 @@ namespace Lab4
     {
         private string name;
         private string id;
-        public string name
+
+        public string Name
         {
             get { return name; }
             set { name = value; }
         }
-        public string id
+        public string Id
         {
             get { return id; }
             set { id = value; }
@@ -36,10 +37,10 @@ namespace Lab4
         private int studentCount;
         public void AddStudent(params Student[] arrStudent)
         {
-            foreach (var sin arrStudent)
+            foreach (var s in arrStudent)
             {
                 students[studentCount++] = s;
-                string.Department = this;
+                s.Department = this;
             }
         }
 
@@ -53,8 +54,8 @@ namespace Lab4
 
         public void ShowInfo()
         {
-            Console.WriteLine("Name: " + name);
-            Console.WriteLine("Id: " + id);
+            Console.WriteLine("Depart Name: " + name);
+            Console.WriteLine(" Depart Id: " + id);
         }
     }
 }
